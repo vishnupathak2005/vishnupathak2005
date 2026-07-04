@@ -124,19 +124,11 @@ I'm **AWS Certified (Cloud Practitioner)** and comfortable working with Git, Lin
 
 ## Experience
 
-### Full Stack Development Trainee — Technical Hub Pvt Ltd
+### Frontend Developer Trainee - VisionaryCue Informatics Pvt. Ltd.
+September 2025 - November 2025
 
-`May 2025 – June 2026`
-
-Embedded within a software engineering team building and maintaining production web applications. Contributed across the full development lifecycle — from UI implementation to database design, API development, and containerized deployment.
-
-**Scope of work:**
-- Built React frontends and Node.js/Express backends for client-facing applications
-- Designed and integrated relational databases (PostgreSQL) and REST APIs
-- Deployed applications using Docker with Git-based CI/CD workflows
-- Participated in debugging, performance profiling, and code reviews
-
-`React` `Node.js` `PostgreSQL` `Docker` `REST APIs` `Git`
+### Software Development Job Simulation - Datacom (Forage)
+ July 2026 - Remote
 
 ---
 
